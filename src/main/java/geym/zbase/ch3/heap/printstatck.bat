@@ -1,0 +1,1 @@
+D:\Java\jdk1.8.0_152\bin\jstack -F %1 > D:/a.txt
