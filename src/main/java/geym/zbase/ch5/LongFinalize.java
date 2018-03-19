@@ -1,7 +1,7 @@
-package geym.zbase.ch5;
+// package geym.zbase.ch5;
 
 /**
- * 有了一个慢的finalize()会导致无法回收
+ * 锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷finalize()锟结导锟斤拷锟睫凤拷锟斤拷锟斤拷
  * 
  * -Xmx10m -Xms10m -XX:+PrintGCDetails -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath="D:/f.dump"
  * @author Administrator
